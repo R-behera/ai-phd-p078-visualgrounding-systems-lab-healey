@@ -1,0 +1,13 @@
+{
+  "professor": "Christopher Healey",
+  "university": "North Carolina State University",
+  "program": "Computer Science PhD",
+  "research_area": "Data visualization, visual analytics, ML for visualization",
+  "representative_paper": "Attention and Visual Memory in Visualization and Computer Graphics; 2012; IEEE TVCG",
+  "paper_link": "https://scholar.google.com/scholar?q=Attention+and+Visual+Memory+in+Visualization+and+Computer+Graphics",
+  "project_family": "vision",
+  "focus": "Data visualization",
+  "value_add_artifact": "distribution-shift and failure-analysis benchmark for vision/multimodal models",
+  "next_step": "Replace seed cases with public/lab visual examples and run one real pretrained baseline.",
+  "generated_for": "professor outreach value-add starter"
+}
